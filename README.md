@@ -12,6 +12,6 @@ This project has been carried out in Microsoft-SQL.
 Steps:
   1. Clone this repository
   2. Download SQL Server Management Studio (SSMS)
-  3. Run the scripts in the order i.   DDL
-                                  ii.  DML
-                                  iii. Executables
+  3. Run the scripts in the order i.   DDL.sql
+                                  ii.  DML.sql
+                                  iii. Progammabilities.sql
